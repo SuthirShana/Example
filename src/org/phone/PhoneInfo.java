@@ -30,7 +30,8 @@ public class PhoneInfo {
 	phone.phoneCamera();
 	phone.phoneStorage();
 	phone.phoneOsName();
-	
+	System.out.println("HI");
+	System.out.println("Welcome");
 	
 	}
 	
